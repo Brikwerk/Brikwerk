@@ -4,7 +4,7 @@
 
 Hey, I'm Reece 👋 and thanks for stopping by!
 
-I'm a graduate student currently studying at the University of British Columbia (UBC). My interests and research lie in teaching computers about the real world through images and video. Currently, I'm focusing on training a computer to understand something from very few examples, AKA few-shot learning.
+I'm a graduate student currently studying at the University of British Columbia (UBC). My interests and research lie in teaching computers about the real world through images and video. Currently, I'm focusing on training a computer to understand something from very few examples, AKA few-shot learning. In my spare time, I also like tinkering with Linux systems, dabbling in task automation, and exploring web technologies.
 
 ## Connect
 
