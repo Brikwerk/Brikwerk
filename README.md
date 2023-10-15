@@ -4,7 +4,7 @@
 
 Hey, I'm Reece 👋 and thanks for stopping by!
 
-My interests and work lie in teaching computers about visual concepts in the real world. Currently, I'm focusing on training a computer to understand what something is and where it might be within a given image or video. During my spare time, I like tinkering with Linux systems, dabbling in task automation, and exploring web technologies.
+My interests and work lie in teaching computers about visual concepts in the real world. Currently, I'm focusing on training a computer to understand what something is and where it might be within a given image or video. During idle time, I like tinkering with Linux systems, dabbling in task automation, and exploring web technologies.
 
 ## Connect
 
